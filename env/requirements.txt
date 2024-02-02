@@ -143,7 +143,7 @@ oauthlib==3.2.2
 opencv-python==4.9.0.80
 opt-einsum==3.3.0
 overrides==7.6.0
-packaging==21.3
+packaging>=22.0
 pandas==2.2.0
 pandocfilters==1.5.1
 parsel==1.8.1
