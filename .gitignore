@@ -1,3 +1,4 @@
 **/.DS_Store
 res/*
 src/processed_data/*
+env/final_bsc/*
