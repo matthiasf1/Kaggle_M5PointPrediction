@@ -3,3 +3,4 @@ res/*
 src/processed_data/*
 src/models/*
 env/final_bsc/*
+src/submissions/*
