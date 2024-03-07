@@ -4,3 +4,5 @@ src/processed_data/*
 src/models/*
 env/final_bsc/*
 src/submissions/*
+src/.ipynb_checkpoints/
+src/__pycache__/
